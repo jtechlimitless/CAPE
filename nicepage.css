@@ -5473,7 +5473,7 @@ a {
   z-index: 1;
 }
 .u-form-send-error {
-  background: #F95D51;
+  background: #62C584;
 }
 .u-form-send-success {
   background: #62C584;
@@ -33799,7 +33799,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 
 
-        
+
 
         /** common-rules **/
         h1.u-title
@@ -33959,7 +33959,7 @@ a.u-link.u-text-hover-grey-90:hover {
         /*end-media rules*/
         /** publish-rules **/
 
-        
+
 
         /** cms-rules **/
         /*begin-responsive rules*/
@@ -34071,7 +34071,7 @@ a.u-link.u-text-hover-grey-90:hover {
         color: #ffffff;
         }
         /** alt-color-rules **/
-    
+
 
 
 /*end-variables sitestylecss*/
@@ -34157,6 +34157,6 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 
- /*begin-variables base-font-size*/ 
+ /*begin-variables base-font-size*/
  html { font-size: 16px; }
  /*end-variables base-font-size*/
